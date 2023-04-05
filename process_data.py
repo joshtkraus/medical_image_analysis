@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # NIH Data
 
 # Libraries
@@ -67,4 +61,3 @@ create_data(res=64)
 
 # 128 x 128 Res
 create_data(res=138)
-
