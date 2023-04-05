@@ -3,6 +3,8 @@ Medical Image Analysis for the NIH Chest X-ray Data Set
 
 ## NIH Chest X-ray Dataset: Array Format
 
+*See code in process_data.py*
+
 <ins> NumPy Array File (.npy)
 
 Data are stored in NumPy array file (.npy) for reduced storage costs (>50% reduction in size compared to .csv & .txt files). Writing arrays to each file proved to be simpler using this approach and addressed size constraints when reading in X- ray data. Moreover, loading the data matrix in this format reduced computational cost and time, making it a reasonable choice for this context. To read the data in, the following code can be used (see [here](https://numpy.org/devdocs/reference/generated/numpy.load.html)):
