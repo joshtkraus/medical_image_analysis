@@ -13,7 +13,7 @@ Data are stored in NumPy array file (.npy) for reduced storage costs (>50% reduc
 
 <ins> data.npy
 
-The file data.npy contains a 112,120 Chest X-rays. Each image is given as a size of 64 X 64, hence represented as a vector in	R<sup>4096</sup> (128 x 128 also provided, in R<sup>16384</sup>). This vector is stored as a row in the file, while each column corresponds to a unique X-ray image.
+The file data.npy contains a 112,120 Chest X-rays. Each image is given as a size of 64 X 64, hence represented as a vector in	R<sup>4096</sup>. This vector is stored as a row in the file, while each column corresponds to a unique X-ray image.
 
 <ins> labels.npy
 
