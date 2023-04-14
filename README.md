@@ -1,7 +1,7 @@
 # medical_image_analysis
 Medical Image Analysis for the NIH Chest X-ray Data Set
 
-## NIH Chest X-ray Dataset: Array Format
+## [NIH Chest X-ray Dataset](https://www.kaggle.com/datasets/nih-chest-xrays/data): Array Format
 
 *See code in process_data.py*
 
